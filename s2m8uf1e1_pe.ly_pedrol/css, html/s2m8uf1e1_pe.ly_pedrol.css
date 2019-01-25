@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #222;
+  font-family: helvetica, sans-serif;
+  color: #FFF;
+  text-decoration: underline;
+}
+
+#img{
+  height: 50px;
+  width: 175px;
+  border-radius: 5px;
+  padding: 10px;
+
+
+}
+
+.barra{
+height: 25px;
+background-color: black;
+position: fixed;
+padding: 5px;
+
+}
+
+.menuesquerra{
+text-align: left;
+float: left;
+
+}
+
+.menudret{
+text-align: right;
+color: white;
+float:right;
+margin-top: -10px;
+
+line-height: 43px;
+height: 40px;
+padding: 0px 20px;
+list-style-type: none;
+}
+h3{
+    background-image: url(/img/1.jpg);
+    font-size: 20px;
+    text-align: left;
+
+}
+h7{
+    font-size: 17px;
+    text-align: left;
+}
+h10{
+  font-size: 15px;
+  text-align: right;
+}
+
+.documents{
+  width: 175px;
+  height: 50px;
+  border-radius: 5px;
+  margin: 20px;
+  background-image: url(s2m8uf1e1_pe.ly_pedrol/img/1.jpg);
+
+}
